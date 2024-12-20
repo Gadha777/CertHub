@@ -29,9 +29,9 @@ To get started with the **Table Reservation System**, follow these steps:
    ```bash
    git clone https://github.com/yourusername/TableReservation.git
    
-2. Navigate to the docker/ui directory for frontend setup
+2. Navigate to the docker/UI directory for frontend setup
      ```bash
-     cd docker/ui
+     cd docker/UI
      
 3. Install dependencies:
    ```bash
@@ -41,8 +41,27 @@ To get started with the **Table Reservation System**, follow these steps:
    ```bash
    npm run dev
     
-    
 ### 🔧 Backend Setup
+
+1. Navigate to the docker/SERVER directory for frontend setup
+     ```bash
+     cd docker/SERVER
+     
+3. Install dependencies:
+   ```bash
+   npm install
+
+4. Start the frontend application
+   ```bash
+   npm run dev
+   
+## 🔑 Key Features
+
+- **Customer Reservations**: Customers can reserve tables, specify the number of people, and add suggestions.
+- **Admin Management**: Restaurant admins can view, update, and delete reservations.
+- **Dockerized Environment**: Simplifies deployment across various platforms.
+- **Video Resources**: Step-by-step tutorials for end-users.
+
 
 
 
