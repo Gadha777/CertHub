@@ -29,7 +29,7 @@ To get started with the **Table Reservation System**, follow these steps:
    ```bash
    git clone https://github.com/yourusername/TableReservation.git
    
-2. Navigate to the docker/ui directory for frontend setup:
+2. Navigate to the docker/ui directory for frontend setup
      ```bash
      cd docker/ui
      
