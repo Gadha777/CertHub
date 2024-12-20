@@ -32,12 +32,15 @@ To get started with the **Table Reservation System**, follow these steps:
 2. Navigate to the docker/ui directory for frontend setup:
      ```bash
      cd docker/ui
+     
 3.Install dependencies:
     ```bash
     npm install
+    
 4.Start the frontend application:
     ```bash
     npm run dev
+    
 ###🔧 Backend Setup
 
 
