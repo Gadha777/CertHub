@@ -37,12 +37,12 @@ To get started with the **Table Reservation System**, follow these steps:
    ```bash
    npm install
 
+4. Start the frontend application
+   ```bash
+   npm run dev
     
-4.Start the frontend application
-    ```bash
-    npm run dev
     
-###🔧 Backend Setup
+### 🔧 Backend Setup
 
 
 
